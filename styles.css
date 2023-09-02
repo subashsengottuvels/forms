@@ -1,0 +1,26 @@
+body{
+    background-image: url(/bgis-2023-the-grind_jst1.jpg);
+    color: aliceblue;
+
+}
+.f1{
+    float: right;
+    top: 35vh;
+    position: relative;
+    right: 170px;
+
+}
+h1{
+    text-align: center;
+    background-color: black;width: 50%;height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+input:active{
+    transform: scale(1.5);
+
+
+}
+input{
+    transition: all 1.5s;
+}
